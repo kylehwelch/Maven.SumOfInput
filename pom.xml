@@ -7,6 +7,15 @@
     <groupId>io.zipcoder</groupId>
     <artifactId>MicroLabs-OOP-SumOfInput</artifactId>
     <version>1.0-SNAPSHOT</version>
+    <properties>
+        <maven.compiler.source>1.8</maven.compiler.source>
+        <maven.compiler.target>1.8</maven.compiler.target>
+    </properties>
+    <dependency>
+        <groupId>org.apache.maven.plugins</groupId>
+        <artifactId>maven-compiler-plugin</artifactId>
+        <version>3.8.1</version>
+    </dependency>
 
 
 </project>
